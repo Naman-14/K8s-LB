@@ -1,5 +1,5 @@
 # K8s-LB
-Service Type: LoadBalancer
+Using Service Type: LoadBalancer
 
 
 Exposing through LoadBalancer
